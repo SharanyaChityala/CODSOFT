@@ -76,7 +76,7 @@ if __name__ == "__main__":
     # creating an object of the Tk() class  
     guiWindow = tk.Tk()  
     # setting the title of the window  
-    guiWindow.title("To-Do List Manager - JAVATPOINT")  
+    guiWindow.title("To-Do List Manager ")  
     # setting the geometry of the window  
     guiWindow.geometry("500x450+750+250")  
     # disabling the resizable option  
